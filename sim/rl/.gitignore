@@ -1,0 +1,2 @@
+# Training outputs (checkpoints, configs). Commit a good run on purpose, not every run.
+runs/
